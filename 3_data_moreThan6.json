@@ -1,0 +1,1288 @@
+{
+  "data": [
+    {
+      "title": "Программист Python",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Программист Python (Senior)",
+      "work experience": "Более 6 лет",
+      "salary": "от 300 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Python developer (Openstack)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Разработчик Python",
+      "work experience": "Более 6 лет",
+      "salary": "от 300 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Инженер по тестированию (Python OR C++)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": "от 6 000 USD",
+      "region": "Армения"
+    },
+    {
+      "title": "Программист баз данных и backend (PostgreSQL, Python)",
+      "work experience": "Более 6 лет",
+      "salary": "до 300 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Team Lead Python",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Краснодар"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Екатеринбург"
+    },
+    {
+      "title": "Senior Python developer (MLOps)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 500 EUR",
+      "region": "Батуми"
+    },
+    {
+      "title": "Senior backend developer (Python)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Python разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Пермь"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Казань"
+    },
+    {
+      "title": "Lead backend developer (Python)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Senior Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Python Team Lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Python разработчик (Team Lead) (PT CERT)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Senior Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Пенза"
+    },
+    {
+      "title": "Senior Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Software engineer (Python)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Старший разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior Python developer (MLOps)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 500 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Python разработчик (Team Lead) (PT CERT)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Самара"
+    },
+    {
+      "title": "Python разработчик",
+      "work experience": "Более 6 лет",
+      "salary": "от 350 000 руб.",
+      "region": "Казань"
+    },
+    {
+      "title": "Software engineer (Python)",
+      "work experience": "Более 6 лет",
+      "salary": "300 000 – 500 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Lead Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": "300 000 – 400 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Middle+/Senior Python Developer / Python разработчик (backend)",
+      "work experience": "Более 6 лет",
+      "salary": "150 000 – 300 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Python Backend Engineer (ML Platform)",
+      "work experience": "Более 6 лет",
+      "salary": "7 000 – 9 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Python developer (MLOps)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 500 EUR",
+      "region": "Турция"
+    },
+    {
+      "title": "Senior python developer",
+      "work experience": "Более 6 лет",
+      "salary": "250 000 – 270 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Программист-разработчик",
+      "work experience": "Более 6 лет",
+      "salary": "30 000 – 100 000 руб.",
+      "region": "Брянск"
+    },
+    {
+      "title": "Team Lead Python/Django / Руководитель отдела разработки и тестирования",
+      "work experience": "Более 6 лет",
+      "salary": "300 000 – 400 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior python/Tech lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Ташкент"
+    },
+    {
+      "title": "Python разработчик (Team Lead) (PT CERT)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Scala Developer",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 500 USD",
+      "region": "Минск"
+    },
+    {
+      "title": "Разработчик С++",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Python разработчик (Team Lead) (PT CERT)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Самара"
+    },
+    {
+      "title": "Senior Python разработчик (back-end)",
+      "work experience": "Более 6 лет",
+      "salary": "от 1 500 000 KZT",
+      "region": "Нур-Султан"
+    },
+    {
+      "title": "Data Analyst - NLP (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 7 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Computer Vision Engineer",
+      "work experience": "Более 6 лет",
+      "salary": "5 000 – 6 000 USD",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Lead Machine Learning Developer",
+      "work experience": "Более 6 лет",
+      "salary": "5 500 – 8 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Data Analyst - NLP (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 7 000 USD",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior Backend Engineer (Remote, to Canada/USA)",
+      "work experience": "Более 6 лет",
+      "salary": "5 000 – 9 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Backend Developer (Python)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior / Lead Python developer (Private Aviation / Luxury segment)",
+      "work experience": "Более 6 лет",
+      "salary": "6 500 – 8 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Python Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Python developer team lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Team lead Data Scientist",
+      "work experience": "Более 6 лет",
+      "salary": "от 400 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Старший математик \\ Senior Data scientist",
+      "work experience": "Более 6 лет",
+      "salary": "100 000 – 140 000 руб.",
+      "region": "Магнитогорск"
+    },
+    {
+      "title": "Team lead, ML направление",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "DevOps Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Алматы"
+    },
+    {
+      "title": "Senior Vue Developer",
+      "work experience": "Более 6 лет",
+      "salary": "от 400 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "DevOps / SRE",
+      "work experience": "Более 6 лет",
+      "salary": "5 000 – 7 500 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior DevOps Engineer - Automation (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 8 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Developer С/С+ (Senior/Teamlead)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Ведущий разработчик C++ (DPDK)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior DevOps Engineer - Automation (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 8 000 USD",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior Backend-разработчик C/Go",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "DevOps-инженер/Системный администратор Linux (remote)",
+      "work experience": "Более 6 лет",
+      "salary": "от 150 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior fullstack developer",
+      "work experience": "Более 6 лет",
+      "salary": "140 000 – 220 000 руб.",
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Backend-разработчик PHP (middle/senior)",
+      "work experience": "Более 6 лет",
+      "salary": "150 000 – 300 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Инженер-программист (Full Stack)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Python Developer",
+      "work experience": "Более 6 лет",
+      "salary": "6 600 – 7 900 руб.",
+      "region": "ОАЭ"
+    },
+    {
+      "title": "C++/C#/Java Programer/ Developer",
+      "work experience": "Более 6 лет",
+      "salary": "100 000 – 400 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior QA Engineer",
+      "work experience": "Более 6 лет",
+      "salary": "5 000 – 6 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Site Reliability Engineer (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 8 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Site Reliability Engineer (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 8 000 USD",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "DevOps инженер (Openstack)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior .Net разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Ульяновск"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Минск"
+    },
+    {
+      "title": "DevOps\\SRE инженер",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "DevOps\\SRE инженер",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "CTO продукта FF.Multi",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "DevOps\\SRE инженер",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Senior .Net разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Ижевск"
+    },
+    {
+      "title": "Аналоговый схемотехник",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Manager, Site Reliability Engineering (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 9 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Manager, Site Reliability Engineering (to Canada/Serbia)",
+      "work experience": "Более 6 лет",
+      "salary": "от 9 500 USD",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Team lead C++ (to Cyprus)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Руководитель подгруппы разработки Go, Собственные продажи, Управление контентом и торговлей",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Devops Engineer",
+      "work experience": "Более 6 лет",
+      "salary": "от 4 000 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Руководитель службы DevOps",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Руководитель отдела разработки ПО / Архитектор (Техлид)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Пермь"
+    },
+    {
+      "title": "Архитектор ПО",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Руководитель аналитического департамента",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Front developer (React)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Минск"
+    },
+    {
+      "title": "Ведущий инженер-программист по разработке сетевого ПО",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Machine learning developer/Data Science",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "C++/C#/Java Programer/ Developer",
+      "work experience": "Более 6 лет",
+      "salary": "100 000 – 400 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Разработчик встраиваемых систем",
+      "work experience": "Более 6 лет",
+      "salary": "150 000 – 200 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "C++/C#/Java Programer/ Developer",
+      "work experience": "Более 6 лет",
+      "salary": "100 000 – 400 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Head of Product Development Team (Self-driving Applications)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Solution Architect (DevOps)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Solution Architect (DevOps)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior fullstack developer",
+      "work experience": "Более 6 лет",
+      "salary": "140 000 – 220 000 руб.",
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Senior Network Engineer/Architect",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Data Engineer (Senior) Cloud Data Warehouse - to Bulgaria",
+      "work experience": "Более 6 лет",
+      "salary": "3 100 – 5 165 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Network Engineering&Architecture Team Lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Team Lead Network and Voice Operations team",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Software Engineer for Design Platform",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Батуми"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Infrastructure engineer",
+      "work experience": "Более 6 лет",
+      "salary": "6 500 – 8 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "High-Speed Hardware Design Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Батуми"
+    },
+    {
+      "title": "High-Speed Hardware Design Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Начальник отдела трехмерного моделирования и выпуска 3D прототипов",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Ведущий инженер-программист по разработке сетевого ПО",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "NLP Tech Lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "System architect",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Senior Data Engineer - POI",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Минск"
+    },
+    {
+      "title": "Senior Machine learning developer/Data Science",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "C++/C#/Java Programer/ Developer",
+      "work experience": "Более 6 лет",
+      "salary": "100 000 – 400 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Разработчик встраиваемых систем",
+      "work experience": "Более 6 лет",
+      "salary": "150 000 – 200 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Программист C (Linux)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Технический менеджер Приватного облака (VK Cloud)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "С++ разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Golang Backend Engineer (Dubai / Cyprus)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Head of Development",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "QA Test Lead (Automation, python)",
+      "work experience": "Более 6 лет",
+      "salary": "от 4 500 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Systems Engineer\\DevOPS (Bulgaria)",
+      "work experience": "Более 6 лет",
+      "salary": "200 000 – 250 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Data Engineer (Senior) Cloud Data Warehouse - to Bulgaria",
+      "work experience": "Более 6 лет",
+      "salary": "3 100 – 5 165 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Software Engineer for Design Platform",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Ведущий инженер-схемотехник (team lead)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Начальник отдела трехмерного моделирования и выпуска 3D прототипов",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Senior fullstack developer",
+      "work experience": "Более 6 лет",
+      "salary": "140 000 – 220 000 руб.",
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Data Science Эксперт в Yandex Cloud",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Батуми"
+    },
+    {
+      "title": "High-Speed Hardware Design Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Батуми"
+    },
+    {
+      "title": "Менеджер продукта в Yandex Cloud (Spark/Hadoop)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Infrastructure engineer",
+      "work experience": "Более 6 лет",
+      "salary": "6 500 – 8 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "High-Speed Hardware Design Engineer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Senior Geo analyst",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "System architect",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Архитектор продуктов (Solution Architect AI Cloud)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Manager Data Analytics",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Senior Fullstack Developer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Руководитель аналитического отдела",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Software Developer (C++)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Зеленоград"
+    },
+    {
+      "title": "Senior Scoring Risk analyst Mexico",
+      "work experience": "Более 6 лет",
+      "salary": "4 000 – 4 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior application developer (Linux)/Руководитель разработки прикладных решений (Linux)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Software Development Team Lead (Cross-functional team)",
+      "work experience": "Более 6 лет",
+      "salary": "6 000 – 7 000 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Software Development Team Lead (Cross-functional team)",
+      "work experience": "Более 6 лет",
+      "salary": "6 000 – 7 000 EUR",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Руководитель группы разработки (TeamLead)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "DevOps инженер",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Уфа"
+    },
+    {
+      "title": "Frontend developer (react)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Технический менеджер Приватного облака (VK Cloud)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "С++ разработчик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Golang Backend Engineer (Dubai / Cyprus)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Head of Development",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "QA Test Lead (Automation, python)",
+      "work experience": "Более 6 лет",
+      "salary": "от 4 500 EUR",
+      "region": "Москва"
+    },
+    {
+      "title": "Systems Engineer\\DevOPS (Bulgaria)",
+      "work experience": "Более 6 лет",
+      "salary": "200 000 – 250 000 руб.",
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Ведущий инженер-схемотехник (team lead)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Data Science Эксперт в Yandex Cloud",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Старший разработчик в отдел облачной инфраструктуры",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Екатеринбург"
+    },
+    {
+      "title": "Старший разработчик в отдел облачной инфраструктуры",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "DSP Researcher Scientist",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Software engineer (C/C++)/ Инженер-разработчик C/C++ (Network OS)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Software engineer (C/C++)/ Инженер-разработчик C/C++ (Network OS)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Software engineer (C/C++)/ Инженер-разработчик C/C++ (Network OS)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "FrontEnd /Fullstack разработчик (TeamLead), e-commerce, fintech",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior java разработчик в команду Risk Decisions",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Старший разработчик в команду разработки базовых инфраструктурных сервисов",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Тимлид в команду низкоуровневой разработки внутреннего облака Яндекса",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Тимлид в команду низкоуровневой разработки внутреннего облака Яндекса",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Нижний Новгород"
+    },
+    {
+      "title": "Lead DevOps",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Chief Technology Officer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Минск"
+    },
+    {
+      "title": "Программист-разработчик в сферу информационной и кибербезопасности",
+      "work experience": "Более 6 лет",
+      "salary": "от 1 000 USD",
+      "region": "Актау"
+    },
+    {
+      "title": "Тимлид в команду разработки на Java",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Backend Developer (Rust)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Технический менеджер проектов по обработке больших данных в реальном времени",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Frontend Developer (Vue, Nuxt)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Специалист по разработке чат-ботов",
+      "work experience": "Более 6 лет",
+      "salary": "от 250 000 KZT",
+      "region": "Алматы"
+    },
+    {
+      "title": "Full-Stack Developer",
+      "work experience": "Более 6 лет",
+      "salary": "от 6 000 USD",
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Ведущий full stack разработчик BI/DWH",
+      "work experience": "Более 6 лет",
+      "salary": "200 000 – 250 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Team Lead DevOps (Infrastructure)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Team Lead DevOps (Infrastructure)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Senior Java developer в команду SRE",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Team Lead DevOps (DataOps Team) - Spain",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Тбилиси"
+    },
+    {
+      "title": "Senior Fullstack developer (Java, Kafka)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Инженер-электронщик / программист",
+      "work experience": "Более 6 лет",
+      "salary": "120 000 – 150 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "RTL-разработчик (Senior)",
+      "work experience": "Более 6 лет",
+      "salary": "150 000 – 200 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Ведущий программист",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Архитектор Big Data",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Ведущий системный аналитик",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Старший специалист по верификации RTL (Senior)",
+      "work experience": "Более 6 лет",
+      "salary": "160 000 – 200 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "QA Test Lead (Python)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior System Engineer (Admins Team)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 300 USD",
+      "region": "Сербия"
+    },
+    {
+      "title": "Senior System Engineer (Admins Team)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 300 USD",
+      "region": "Кипр"
+    },
+    {
+      "title": "Senior QA Automaton (Limassol)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Кипр"
+    },
+    {
+      "title": "Senior QA Automaton (Limassol)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Турция"
+    },
+    {
+      "title": "Senior QA Automaton (Limassol)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior QA Automaton (Limassol)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Армения"
+    },
+    {
+      "title": "Senior QA Automaton (Limassol)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior C++ Browser Engineer (relocation to EU)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior C++ Browser Engineer (relocation to EU)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Санкт-Петербург"
+    },
+    {
+      "title": "Senior Manager Data Analytics",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Новосибирск"
+    },
+    {
+      "title": "Group Manager (Advanced Technologies and Performance Analysis)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Arch Lead",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Full-stack Developer",
+      "work experience": "Более 6 лет",
+      "salary": "от 6 500 USD",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Fullstack Developer",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "Senior Software Engineer (Linux/С++)",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Москва"
+    },
+    {
+      "title": "CTO / Chief technical officer Robo Dev",
+      "work experience": "Более 6 лет",
+      "salary": "300 000 – 350 000 руб.",
+      "region": "Москва"
+    },
+    {
+      "title": "Senior System Engineer (Admins Team)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 300 USD",
+      "region": "Чехия"
+    },
+    {
+      "title": "Senior System Engineer (Admins Team)",
+      "work experience": "Более 6 лет",
+      "salary": "от 3 300 USD",
+      "region": "Армения"
+    },
+    {
+      "title": "DevOps Engineer",
+      "work experience": "Более 6 лет",
+      "salary": "3 700 – 4 700 USD",
+      "region": "Минск"
+    },
+    {
+      "title": "Senior/Lead Software Engineer (.NET), Relocation: Yerevan",
+      "work experience": "Более 6 лет",
+      "salary": "3 000 – 5 500 USD",
+      "region": "Армения"
+    },
+    {
+      "title": "Risk Assurance Services Manager",
+      "work experience": "Более 6 лет",
+      "salary": null,
+      "region": "Ташкент"
+    }
+  ]
+}
